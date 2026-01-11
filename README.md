@@ -2,8 +2,8 @@
 Project Description: Hand Gesture Controlled Keyboard Automation
 
 I have developed a hand gesture–based keyboard control system using Python and computer vision. The project uses a webcam to capture live video and processes it with OpenCV and CVZone’s HandTrackingModule to detect and track hand movements in real time.
-
 The system focuses on the left hand and counts the number of fingers raised. Based on the gesture, I used PyAutoGUI to automate keyboard actions:
+
 Five fingers raised: Presses the Right key
 Closed fist (zero fingers): Presses the Left key
 
