@@ -1,4 +1,4 @@
-# Game_gesture
+# Hand_gesture Controller
 Project Description: Hand Gesture Controlled Keyboard Automation
 
 I have developed a hand gesture–based keyboard control system using Python and computer vision. The project uses a webcam to capture live video and processes it with OpenCV and CVZone’s HandTrackingModule to detect and track hand movements in real time.
