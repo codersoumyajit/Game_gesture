@@ -9,4 +9,5 @@ Closed fist (zero fingers): Presses the Left key
 
 The finger count is displayed on the screen for instant feedback. This project demonstrates a simple yet effective touchless human–computer interaction approach and can be extended for use in games, presentations, and accessibility-based applications.
 
-![Image Alt]([image_url](https://github.com/codersoumyajit/Game_gesture/blob/5c4ef2cb5fd3b2ad10b6635240a9a41c467bc3e5/Screenshot%202026-01-12%20005110.png))
+![Image Alt](https://github.com/codersoumyajit/Game_gesture/blob/5c4ef2cb5fd3b2ad10b6635240a9a41c467bc3e5/Screenshot%202026-01-12%20005110.png)
+![Image Alt](https://github.com/codersoumyajit/Game_gesture/blob/9e52a4db334192f01b5d408ab5fafa41d033860d/Screenshot%202026-01-12%20005233.png)
